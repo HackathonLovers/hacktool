@@ -1,0 +1,19 @@
+{
+  "name": "hacktool",
+  "version": "0.0.0",
+  "description": "Project about to start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HackathonLovers/hacktool.git"
+  },
+  "author": "Hackathon Lovers",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/HackathonLovers/hacktool/issues"
+  },
+  "homepage": "https://github.com/HackathonLovers/hacktool"
+}
