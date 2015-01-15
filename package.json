@@ -1,19 +1,26 @@
 {
   "name": "hacktool",
   "version": "0.0.0",
-  "description": "Project about to start",
+  "description": "Mistery project about to start",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/HackathonLovers/hacktool.git"
   },
-  "author": "Hackathon Lovers",
+  "contibutors": [
+    "Adolfo Sanz de Diego @asanzdiego",
+    "Jorge Arévalo @jorgeas80",
+    "Carlos Azaustre @carlosazaustre"
+  ],
   "license": "GPL",
   "bugs": {
     "url": "https://github.com/HackathonLovers/hacktool/issues"
   },
-  "homepage": "https://github.com/HackathonLovers/hacktool"
+  "homepage": "https://github.com/HackathonLovers/hacktool",
+  "dependencies": {
+    "express": "^4.11.0"
+  }
 }
